@@ -1,0 +1,5 @@
+# Ignore env files in any folder
+**/.env
+
+# Ignore the virtual environment folder in Task 4
+Task-4-Health-Chatbot/venv/
