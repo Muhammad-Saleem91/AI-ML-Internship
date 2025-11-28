@@ -14,3 +14,7 @@ This task predicts the **Next Day's Closing Price** for Apple (AAPL) stock. I co
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+2. Run the Streamlit App:
+   ```bash
+   streamlit run chatbot_app.py
